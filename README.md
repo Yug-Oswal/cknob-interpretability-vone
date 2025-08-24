@@ -65,5 +65,5 @@ Plots (included in this repo) highlight notable token spans:
 ---
 
 ## Plots:
-<img src="plots/plot1.png" alt="Plot 1" width="500"/>
-<img src="plots/plot2.png" alt="Plot 2" width="500"/>
+<img src="plots/sample_60.png" alt="Plot 1" width="500"/>
+<img src="plots/sample_870.png" alt="Plot 2" width="500"/>
