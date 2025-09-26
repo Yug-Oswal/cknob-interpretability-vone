@@ -2,7 +2,8 @@
 
 ## TL;DR  
 Tuning with my proposed algorithm **amplified safe behaviour**: the tuned model showed **lower bias scores** than the base, with disparities **widening in later layers**. This suggests that alignment suppression reinforces already elevated P(Safe) and bias amplification might exist.   
-Note: A repo complementary to this one, where we test causality using activation patching - https://github.com/Yug-Oswal/cr-actpatch
+
+Complementary repository for causality testing: [Bias-Output Causality Testing via Activation Patching](https://github.com/Yug-Oswal/cr-actpatch)
 
 ---
 
