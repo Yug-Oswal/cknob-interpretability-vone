@@ -2,6 +2,7 @@
 
 ## TL;DR  
 Tuning with my proposed algorithm **amplified safe behaviour**: the tuned model showed **lower bias scores** than the base, with disparities **widening in later layers**. This suggests that alignment suppression acts more strongly at deeper layers.  
+Note: This is a repo complementary to this one, where we test causality using activation patching - https://github.com/Yug-Oswal/cr-actpatch
 
 ---
 
